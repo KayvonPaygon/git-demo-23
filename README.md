@@ -8,3 +8,4 @@ gonna learn sum cool stuff
 - git pull
 - git push
 - git clone
+- extra
