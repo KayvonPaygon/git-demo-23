@@ -9,3 +9,6 @@ gonna learn sum cool stuff
 - git push
 - git clone
 - extra
+
+### kool stuff
+- learning branching 
