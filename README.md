@@ -1,6 +1,6 @@
 # git demo; kevin pagan
 
-actually learning git
+actually learning git!!!!!
 
 gonna learn sum cool stuff
 
@@ -9,3 +9,6 @@ gonna learn sum cool stuff
 - git push
 - git clone
 - extra
+
+### kool stuff
+- learning branching 
